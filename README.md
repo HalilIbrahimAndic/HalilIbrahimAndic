@@ -12,8 +12,6 @@
 [linkedin]: https://www.linkedin.com/in/halilibrahimandic/
 <br />
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=HalilIbrahimAndic&show_icons=true&locale=en" alt="HalilIbrahimAndic" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=HalilIbrahimAndic&show_icons=true&locale=en" alt="HalilIbrahimAndic" />
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=HalilIbrahimAndic&" alt="HalilIbrahimAndic" />
 </p>
-
-![](https://komarev.com/ghpvc/?username=HalilIbrahimAndic)

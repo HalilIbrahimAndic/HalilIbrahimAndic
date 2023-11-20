@@ -1,7 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hi+I+am+Halil+%F0%9F%91%8B;)
 
-- 🌱 I’m currently learning Swift!
-- 🤔 I'm looking for a job as an iOS Developer.
+- 🌱 I’m currently learning SwiftUI!
 - 🤝 Any help about your experiences on Swift will be appreciated.
 - 📫 You can write me: hiandic@gmail.com
 

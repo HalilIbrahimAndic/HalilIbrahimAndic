@@ -2,8 +2,7 @@
 
 - 🚀 I’m an iOS Developer working at Simpra!
 - 📫 You can write me: hiandic@gmail.com
-- ![image](https://github.com/user-attachments/assets/ba38ae6c-d70b-45d8-9fa8-72e663104248)
- Website: https://halilibrahimandic.github.io/
+- 🏠 Website: https://halilibrahimandic.github.io/
 
 #### 📩 Contact
 <p align="left">
